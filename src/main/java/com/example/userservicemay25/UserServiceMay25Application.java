@@ -10,4 +10,5 @@ public class UserServiceMay25Application {
         SpringApplication.run(UserServiceMay25Application.class, args);
     }
 
+
 }
